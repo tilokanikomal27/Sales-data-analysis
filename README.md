@@ -9,6 +9,8 @@
 
    page2 :- https://github.com/tilokanikomal27/Sales-data-analysis/blob/main/page2.png
 
+   page3 :- https://github.com/tilokanikomal27/Sales-data-analysis/blob/main/page3.png
+
   
   
   
