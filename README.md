@@ -7,6 +7,8 @@
 
   page1 :- https://github.com/tilokanikomal27/Sales-data-analysis/blob/main/page1.png
 
+   page2 :- https://github.com/tilokanikomal27/Sales-data-analysis/blob/main/page2.png
+
   
   
   
